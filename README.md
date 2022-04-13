@@ -5,4 +5,3 @@ Mission Objectives:
 -to generate grocery lists
 -to track bms and provide analytics to chart optimal bms vs. meals or ingredients
 
-
